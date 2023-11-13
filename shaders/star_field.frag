@@ -1,3 +1,6 @@
+// Credits:
+// How to make stars using shaders: https://www.youtube.com/watch?v=rvDo9LvfoVE
+
 #version 460 core
 
 precision mediump float;
