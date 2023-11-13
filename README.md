@@ -1,5 +1,9 @@
 # galaxy_button
  
+## Check out [The Art of Code channel on youtube](https://youtu.be/rvDo9LvfoVE) to learn how to create a star field using fragment shaders
+
+
+
 
 An attemt to replicate the galaxy button in this tweet/X: https://twitter.com/rogie/status/1721907720180388167
 
